@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+	<title>Akamana Coffee | Restaurant</title>
+
+	<!-- Mobile Specific Meta
+		================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- CSS
+		================================================== -->
+	<!-- Fontawesome Icon font -->
+	<link rel="stylesheet" href="plugins/themefisher-font/style.css">
+	<!-- bootstrap.min css -->
+	<link rel="stylesheet" href="plugins/bootstrap/dist/css/bootstrap.min.css">
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="plugins/animate-css/animate.css">
+	<!-- Magnific popup css -->
+	<link rel="stylesheet" href="plugins/magnific-popup/dist/magnific-popup.css">
+	<!-- Slick Carousel -->
+	<link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
+	<link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
+	<!-- Main Stylesheet -->
+	<link rel="stylesheet" href="css/style.css">
+
+
+</head>
+
+<body id="body" data-spy="scroll" data-target=".navbar" data-offset="50">
+	<!--
+	    Start Preloader
+	    ==================================== -->
+	<div class="preloader">
+		<div class="sk-cube-grid">
+			<div class="sk-cube sk-cube1"></div>
+			<div class="sk-cube sk-cube2"></div>
+			<div class="sk-cube sk-cube3"></div>
+			<div class="sk-cube sk-cube4"></div>
+			<div class="sk-cube sk-cube5"></div>
+			<div class="sk-cube sk-cube6"></div>
+			<div class="sk-cube sk-cube7"></div>
+			<div class="sk-cube sk-cube8"></div>
+			<div class="sk-cube sk-cube9"></div>
+		</div>
+	</div>
+	<!-- End Preloader
+        ==================================== -->
+ <!-- 
+  Fixed Navigation
+  ==================================== -->
+  <header id="navigation" class="navbar navigation">
+	<div class="container">
+		<div class="navbar-header">
+		  <!-- responsive nav button -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<!-- /responsive nav button -->
+	</div>
+	<nav class="collapse navbar-collapse navbar-right" role="Navigation">
+		<ul id="nav" class="nav navbar-nav navigation-menu">
+			<li><a data-scroll href="beranda.php">Home</a></li>
+			<li><a data-scroll href="#contact">Contact</a></li>
+		</ul>
+	</nav>
+  </div>
+</header>
+<!--
+End Fixed Navigation
+==================================== -->
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+				<h1><b>Dessert</b></h1>
+				<div class="border"></div>
+                <ul class="list-inline mb-50">
+				</ul>
+					<h2>Pisang Goreng</h2>
+					<ul class="list-inline mb-50">
+						<li class="list-inline-item"><b>Deep-Fried Banana Serve With Vanilla Ice Cream</b></li>
+						<br>
+						<p>Price: 25K</p>
+					</ul>
+					<h2>Ice Cream</h2>
+					<ul class="list-inline mb-50">
+						<li class="list-inline-item"><b>There Scoops Choices Of Strawberry, Vanilla, Chocolate Ice Cream Served With Chocolate Wafer Stick</b></li>
+						<p>Price: 35K</p>
+					</ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- end Contact Area
+		========================================== -->
+
+<!-- Start Contact Section
+==================================== -->
+<footer id="contact" class="bg-one">
+	<div class="container">
+		<div class="row wow fadeInUp" data-wow-duration="500ms">
+			<div class="text-center col-lg-12">
+				<!-- Footer Social Links -->
+				<div class="social-icon">
+					<ul class="list-inline">
+						<li><a href="https://www.facebook.com/akamanacoffeeubud"><i class="tf-ion-social-facebook"></i></a></li>
+						<li><a href="https://www.instagram.com/akamana.coffee"><i class="tf-ion-social-instagram"></i></a></li>
+						<li><a href="tel:+62-361-479230"><i class="tf-ion-android-call"></i></a></li>
+						<li><a href="https://goo.gl/maps/TzvTMHC4KeJaTcLSA"><i class="tf-ion-android-locate"></i></a></li>
+					</ul>
+				</div>
+				<!--/. End Footer Social Links -->
+			</div> <!-- end col lg 12 -->
+		</div> <!-- end row -->
+	</div> <!-- end container -->
+</footer> <!-- end footer -->
+
+<!-- Start Footer 
+=========================================== -->		
+<section id="footer" class="contact-us section-bg">
+	<div class="container">
+		<!-- copyright -->
+		<div class="copyright text-center">
+			<a href="beranda.html">
+				<img src="assets/akamana.png" alt="Akamana" width="40px" height="40px"> 
+			</a>
+			<p>Made by Akamana Coffee</a>. Copyright
+				&copy; <script>
+				document.write(new Date().getFullYear())
+				</script>. All Rights Reserved.</p>
+		</div><!-- /copyright -->
+	</div> <!-- end container -->
+</section> <!-- end section -->
+<!-- 
+Essential Scripts
+=====================================-->
+
+<!-- Main jQuery -->
+<script type="text/javascript" src="plugins/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.1 -->
+<script type="text/javascript" src="plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- Slick Carousel -->
+<script type="text/javascript" src="plugins/slick-carousel/slick/slick.min.js"></script>
+<!-- Portfolio Filtering -->
+<script type="text/javascript" src="plugins/filterzr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll -->
+<script type="text/javascript" src="plugins/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+<!-- Magnific popup -->
+<script type="text/javascript" src="plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+<!-- Sticky Nav -->
+<script type="text/javascript" src="plugins/Sticky/jquery.sticky.js"></script>
+<!-- Number Counter Script -->
+<script type="text/javascript" src="plugins/count-to/jquery.countTo.js"></script>
+<!-- wow.min Script -->
+<script type="text/javascript" src="plugins/wow/dist/wow.min.js"></script>
+<!-- Custom js -->
+<script type="text/javascript" src="js/script.js"></script>
+
+    </body>
+</html>
